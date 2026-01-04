@@ -1,0 +1,13 @@
+Package: snano
+Architecture: all
+Version: 1.1.0
+Maintainer: LogFc12
+Depends: python
+Filename: ./snano-pkg.deb
+Size: 1900
+MD5sum: 2b8b2b43c62ad5973f7438f58c297a6a
+SHA1: 2b56b392bd1fc8fe39e818e33004a6de11ecdca5
+SHA256: 92282b0dab7ae03f10d8ee0dd6cc32f826b48ff21c18ec2bd6dfeb87b28595d7
+SHA512: b79fbfe9a1f4aba3b99dc59cbd161c546f7682f59496d2699bd4635ad89a53e6f35b9e3040da7211fe845b7b374e4a0b2364e5d212756f25ecfd52b0ae9ba427
+Description: Simple GNU Nano Clone Global Version
+
